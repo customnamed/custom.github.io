@@ -612,6 +612,16 @@
     margin-bottom: 16px;
   }
   
+  .emailink {
+    color: white;
+    text-decoration: none;
+  }
+
+  .emailink:visited {
+    color: white;
+  }
+
+
   .website__rights {
     color: #fff;
   }
